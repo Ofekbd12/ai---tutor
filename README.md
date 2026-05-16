@@ -1,4 +1,4 @@
-# 🧠 AI Tutor
+#  AI Tutor
 
 An AI-powered tutoring platform designed to ensure continuous learning for students during wartime, enabling access to educational support while I serve on active military duty.
 
